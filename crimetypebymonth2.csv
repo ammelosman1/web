@@ -1,0 +1,101 @@
+Month,crimetype,reportedCrimes
+2020-03,Anti-social behaviour,23014
+2020-04,Anti-social behaviour,62763
+2020-05,Anti-social behaviour,58502
+2020-06,Anti-social behaviour,39584
+2020-07,Anti-social behaviour,35588
+2020-08,Anti-social behaviour,35842
+2020-09,Anti-social behaviour,30863
+2020-10,Anti-social behaviour,31186
+2020-11,Anti-social behaviour,33863
+2020-12,Anti-social behaviour,29377
+2021-01,Anti-social behaviour,33642
+2021-02,Anti-social behaviour,29154
+2021-03,Anti-social behaviour,30615
+2021-04,Anti-social behaviour,27127
+2021-05,Anti-social behaviour,26136
+2021-06,Anti-social behaviour,27629
+2021-07,Anti-social behaviour,26214
+2021-08,Anti-social behaviour,23330
+2021-09,Anti-social behaviour,21904
+2021-10,Anti-social behaviour,20998
+2020-03,Bicycle theft,1078
+2020-04,Bicycle theft,1060
+2020-05,Bicycle theft,1768
+2020-06,Bicycle theft,2548
+2020-07,Bicycle theft,2833
+2020-08,Bicycle theft,3019
+2020-09,Bicycle theft,3078
+2020-10,Bicycle theft,2619
+2020-11,Bicycle theft,1985
+2020-12,Bicycle theft,1313
+2021-01,Bicycle theft,1058
+2021-02,Bicycle theft,1107
+2021-03,Bicycle theft,1620
+2021-04,Bicycle theft,1843
+2021-05,Bicycle theft,2056
+2021-06,Bicycle theft,2110
+2021-07,Bicycle theft,2196
+2021-08,Bicycle theft,2044
+2021-09,Bicycle theft,2189
+2021-10,Bicycle theft,1999
+2020-03,Burglary,5362
+2020-04,Burglary,3661
+2020-05,Burglary,3886
+2020-06,Burglary,4320
+2020-07,Burglary,4928
+2020-08,Burglary,4995
+2020-09,Burglary,5195
+2020-10,Burglary,5618
+2020-11,Burglary,5209
+2020-12,Burglary,4765
+2021-01,Burglary,4299
+2021-02,Burglary,4062
+2021-03,Burglary,4715
+2021-04,Burglary,4203
+2021-05,Burglary,4235
+2021-06,Burglary,4286
+2021-07,Burglary,4262
+2021-08,Burglary,4403
+2021-09,Burglary,4445
+2021-10,Burglary,4812
+2020-03,Criminal damage and arson,4392
+2020-04,Criminal damage and arson,3496
+2020-05,Criminal damage and arson,3906
+2020-06,Criminal damage and arson,4353
+2020-07,Criminal damage and arson,4692
+2020-08,Criminal damage and arson,4710
+2020-09,Criminal damage and arson,4274
+2020-10,Criminal damage and arson,4214
+2020-11,Criminal damage and arson,4205
+2020-12,Criminal damage and arson,4087
+2021-01,Criminal damage and arson,3634
+2021-02,Criminal damage and arson,3551
+2021-03,Criminal damage and arson,4222
+2021-04,Criminal damage and arson,4308
+2021-05,Criminal damage and arson,4734
+2021-06,Criminal damage and arson,4903
+2021-07,Criminal damage and arson,4698
+2021-08,Criminal damage and arson,4609
+2021-09,Criminal damage and arson,4554
+2021-10,Criminal damage and arson,4664
+2020-03,Drugs,3657
+2020-04,Drugs,4978
+2020-05,Drugs,6427
+2020-06,Drugs,4665
+2020-07,Drugs,4569
+2020-08,Drugs,3534
+2020-09,Drugs,3541
+2020-10,Drugs,4124
+2020-11,Drugs,4410
+2020-12,Drugs,3624
+2021-01,Drugs,3708
+2021-02,Drugs,4063
+2021-03,Drugs,4225
+2021-04,Drugs,3791
+2021-05,Drugs,3450
+2021-06,Drugs,3238
+2021-07,Drugs,3291
+2021-08,Drugs,3252
+2021-09,Drugs,3031
+2021-10,Drugs,3726
